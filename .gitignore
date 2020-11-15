@@ -128,3 +128,4 @@ gen
 
 scripts.config.ts
 scripts.config.ts
+.deno_*
